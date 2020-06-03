@@ -1,0 +1,31 @@
+{
+  "author": "Nicholas Jamieson <nicholas@cartant.com>",
+  "bugs": {
+    "url": "https://github.com/cartant/eslint-config-react/issues"
+  },
+  "dependencies": {},
+  "description": "ESLint configuration",
+  "devDependencies": {},
+  "homepage": "https://github.com/cartant/eslint-config-react",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "@cartant/eslint-config-react",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.4"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cartant/eslint-config-react.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-beta.0"
+}
