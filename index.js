@@ -1,5 +1,6 @@
 module.exports = {
-  plugins: ["react", "react-hooks"],
+  plugins: ["react", "react-etc", "react-hooks"],
   rules: {
+    "react-etc/prefer-usememo": ["warn"]
   },
 };
