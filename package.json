@@ -3,7 +3,11 @@
   "bugs": {
     "url": "https://github.com/cartant/eslint-config-react/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-etc": "^0.0.2-beta.3",
+    "eslint-plugin-react-hooks": "^4.0.4"
+  },
   "description": "ESLint configuration",
   "devDependencies": {},
   "homepage": "https://github.com/cartant/eslint-config-react",
@@ -13,10 +17,7 @@
   "name": "@cartant/eslint-config-react",
   "optionalDependencies": {},
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-etc": "^0.0.1-beta.1",
-    "eslint-plugin-react-hooks": "^4.0.4"
+    "eslint": "^7.0.0"
   },
   "private": false,
   "publishConfig": {
