@@ -4,6 +4,7 @@
     "url": "https://github.com/cartant/eslint-config-react/issues"
   },
   "dependencies": {
+    "eslint-plugin-jsx-expressions": "^1.2.0",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-etc": "^2.0.0",
     "eslint-plugin-react-hooks": "^4.0.4"

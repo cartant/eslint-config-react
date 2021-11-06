@@ -374,6 +374,14 @@ eslint-etc@^5.0.0:
     tsutils "^3.17.1"
     tsutils-etc "^1.3.4"
 
+eslint-plugin-jsx-expressions@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsx-expressions/-/eslint-plugin-jsx-expressions-1.2.0.tgz#dbb2962b2cb44977feb8b22de9389a9eec1b0223"
+  integrity sha512-vBjlzsqi274Jvvn3LqZk/5Evakovqk85dDKMqdtJj0hQ8USQry2rMVeTc0vvGysJnKF9d6F0LF/ek8tnu3g2Ow==
+  dependencies:
+    "@typescript-eslint/experimental-utils" "^5.0.0"
+    tsutils "^3.21.0"
+
 eslint-plugin-react-etc@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-etc/-/eslint-plugin-react-etc-2.0.0.tgz#5878bdc671369297590b8650ee12d37927c15e8c"
